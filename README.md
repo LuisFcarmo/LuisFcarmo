@@ -16,7 +16,7 @@ I'm a computer science student focusing on backend development and software arch
 
 <div align="center">
   <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=java,javascript,python3,c,c++,react,spring-boot&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,python,c,c++,react,spring-boot&theme=dark" />
   </a>
 </div>
 
