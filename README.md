@@ -14,11 +14,12 @@ I'm a computer science student focusing on backend development and software arch
 
 ### **Languages:**
 
-<div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,javascript,python3,c,c++" />
-</a>
+<div align="center">
+  <a href="https://skillicons.dev" >
+    <img src="https://skillicons.dev/icons?i=java,javascript,python3,c,c++,react,spring-boot&theme=dark" />
+  </a>
 </div>
+
 
 
 #### Social
