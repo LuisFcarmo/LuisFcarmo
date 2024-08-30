@@ -14,8 +14,10 @@ I'm a computer science student focusing on backend development and software arch
 
 ### **Languages:**
 
-<div align="left">
-<img height="30" alt="c++" src="https://umangsoftware.com/wp-content/uploads/2020/06/cpp-1.png">
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=java,javascript,python3,c,c++" />
+</a>
 </div>
 
 
