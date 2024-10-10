@@ -10,7 +10,7 @@ I'm a computer science student focusing on backend development and software arch
 
 ![Caio LuisFcarmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFcarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=494px)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisFcarmo&theme=tokyonight&hide_border=true&border_radius=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&card_width=494px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&card_width=494px&hide=c&cache_seconds=1800)
 
 ### **Languages:**
 
