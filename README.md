@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student passionate about **backend development**,
-**software architecture**, and building scalable systems.\
+Sou estudante de Ciência da Computação focado em **desenvolvimento
+backend**, **arquitetura de software** e **sistemas escaláveis**.\
 📍 **UFG -- Goiânia, Goiás**
 
 ------------------------------------------------------------------------
@@ -11,12 +11,20 @@ I'm a Computer Science student passionate about **backend development**,
 ## 📊 GitHub Overview
 
 ::: {align="center"}
-![LuisFcarmo's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=LuisFcarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=494)
-![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisFcarmo&theme=tokyonight&hide_border=true&border_radius=5)
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&card_width=494)
+```{=html}
+<!-- Stats -->
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisFcarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />`{=html}
+
+```{=html}
+<!-- Streak -->
+```
+`<img height="170" src="https://streak-stats.demolab.com?user=LuisFcarmo&theme=tokyonight&hide_border=true" />`{=html}
+
+```{=html}
+<!-- Top Langs -->
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />`{=html}
 :::
 
 ------------------------------------------------------------------------
@@ -42,11 +50,10 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo
 
 ------------------------------------------------------------------------
 
-`</br>`{=html}
 ```{=html}
 <p align="center">
 ```
-✨ Thanks for visiting my profile! ✨
+✨ Obrigado por visitar meu perfil! ✨
 ```{=html}
 </p>
 ```
