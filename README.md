@@ -1,43 +1,52 @@
-### Hey, I'm Luis 👋
+# Hey, I'm Luis 👋
 
-## About Me  
+## 🚀 About Me
 
-I'm a computer science student focusing on backend development and software architecture <br>
-:round_pushpin: **```UFG - Goiânia, Goiás```**
-<br>
+I'm a Computer Science student passionate about **backend development**,
+**software architecture**, and building scalable systems.\
+📍 **UFG -- Goiânia, Goiás**
 
+------------------------------------------------------------------------
 
+## 📊 GitHub Overview
 
-![LuisFcarmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFcarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=494px)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisFcarmo&theme=tokyonight&hide_border=true&border_radius=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&card_width=494px)
+::: {align="center"}
+![LuisFcarmo's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=LuisFcarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=494)
+![GitHub
+Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisFcarmo&theme=tokyonight&hide_border=true&border_radius=5)
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&card_width=494)
+:::
 
-### **Languages:**
+------------------------------------------------------------------------
 
-<div align="center">
-  <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,nodejs,python,django,c,cpp,gtk,mysql,mongodb,&theme=dark" />
-  </a>
-</div>
+## 🧠 Tech Stack
 
+::: {align="center"}
+`<img src="https://skillicons.dev/icons?i=java,spring,javascript,react,nodejs,python,django,c,cpp,gtk,mysql,mongodb&theme=dark" />`{=html}
+:::
 
+------------------------------------------------------------------------
 
-#### Social
+## 🌎 Social
 
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/LuisFcarmo">`{=html}`<img src="https://skillicons.dev/icons?i=github" width="50"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/luisfcarmo">`{=html}`<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
+------------------------------------------------------------------------
 
-
-<!--
-**LuisFcarmo/LuisFcarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`</br>`{=html}
+```{=html}
+<p align="center">
+```
+✨ Thanks for visiting my profile! ✨
+```{=html}
+</p>
+```
