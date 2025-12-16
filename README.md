@@ -1,11 +1,5 @@
 # ⚡ Luis Carmo
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuisFcarmo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<br/>
-
 <a href="https://github.com/LuisFcarmo">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&width=435&lines=Backend+Developer;Computer+Science+Student;Software+Architecture+Enthusiast" alt="Typing SVG" />
 </a>
@@ -55,7 +49,7 @@ Sou estudante de Ciência da Computação na **UFG**, focado em criar sistemas r
 
 ---
 
-## 📊 Analytics & Projetos
+## 📊 Analytics
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuisFcarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -65,10 +59,5 @@ Sou estudante de Ciência da Computação na **UFG**, focado em criar sistemas r
 <br/>
 
 <div align="center">
-  <a href="https://github.com/LuisFcarmo/lici-ingestao">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisFcarmo&repo=lici-ingestao&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/LuisFcarmo/backendgarra">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisFcarmo&repo=backendgarra&theme=tokyonight&hide_border=true" />
-  </a>
+  ✨ <i>"Code is like humor. When you have to explain it, it’s bad."</i> ✨
 </div>
