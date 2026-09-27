@@ -1,72 +1,64 @@
-# Luis Carmo
+# ⚡ Luis Carmo
 
 <a href="https://luisfcarmo.github.io/portifolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2094F3&width=520&lines=Data+Platform+Engineer;Pipelines+de+dados+de+ponta+a+ponta;Airflow+%C2%B7+Spark+%C2%B7+Iceberg+%C2%B7+AWS" alt="Data Platform Engineer · Pipelines de dados de ponta a ponta" />
 </a>
 
-Data Platform Engineer focado em engenharia de dados. Construo pipelines de ponta a ponta, da coleta ao consumo por APIs e agentes de IA, com a infraestrutura na AWS escrita como código.
+---
 
-Hoje na Positivo Tecnologia, na DIIP/UFG e na Enel. Estudante de Ciência da Computação na UFG, em Goiânia.
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-[Portfólio](https://luisfcarmo.github.io/portifolio/) · [LinkedIn](https://www.linkedin.com/in/luis-cesar-ferreira-do-carmo/) · [Email](mailto:luiscesar@discente.ufg.br)
+### 👨‍💻 Sobre Mim
 
-## Da fonte ao consumo
+Data Platform Engineer focado em **engenharia de dados**. Construo plataformas que rodam sem intervenção humana, da coleta em larga escala ao consumo por APIs e agentes de IA, com a infraestrutura na AWS escrita como código. Estudante de Ciência da Computação na **UFG** (formatura prevista para 2027).
 
-```mermaid
-flowchart TB
-    subgraph SRC["Fontes"]
-        direction TB
-        s1["Portais públicos<br/>e e-commerce"]
-        s2["Sistemas transacionais<br/>SIPAC · SEI · OLTP"]
-        s3["Dados abertos<br/>ANEEL"]
-    end
+- 🏢 **Positivo Tecnologia**, Data Platform Engineer Pleno: ingestão em larga escala e data lake na AWS, orquestrados no Airflow e provisionados com Terraform.
+- 🏛️ **DIIP · PROAD/UFG**, Tech Lead: criei o AutoTED, sistema em produção que automatiza a conciliação orçamentária da universidade.
+- ⚡ **Enel**, DevOps & Engenheiro de Dados Pleno: arquitetura Lakehouse (S3 + Apache Iceberg) que serve dados para agentes de IA.
+- 📍 **Goiânia, GO** · remoto ou híbrido
 
-    subgraph ING["Ingestão"]
-        direction TB
-        i1["Crawlers<br/>Scrapy · Playwright"]
-        i2["CDC<br/>Debezium · MSK"]
-        i3["APIs e arquivos<br/>Gmail API · PDF · XLS"]
-    end
+<a href="https://luisfcarmo.github.io/portifolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2094F3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/luis-cesar-ferreira-do-carmo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:luiscesar@discente.ufg.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-    subgraph LAKE["Lakehouse · S3 + Apache Iceberg"]
-        direction LR
-        raw["Raw"] -->|"Glue · Spark"| silver["Silver"] -->|"Glue · Spark"| gold["Gold"]
-    end
+</td>
+<td width="38%" valign="middle" align="center">
 
-    subgraph OUT["Consumo"]
-        direction TB
-        o1["SQL<br/>Athena"]
-        o2["APIs<br/>FastAPI · PostgreSQL"]
-        o3["Agentes de IA<br/>Bedrock · Agno · MCP"]
-    end
+### 90k+
+<sub>jobs orquestrados por dia no Airflow</sub>
 
-    ORQ{{"Orquestração<br/>Airflow · Prefect<br/>Step Functions"}}
+### 680+
+<sub>testes automatizados no AutoTED</sub>
 
-    SRC --> ING --> LAKE --> OUT
-    SRC ~~~ ORQ
-    ORQ -.-> ING
-    ORQ -.-> LAKE
+### 2+ anos
+<sub>de Airflow em produção</sub>
 
-    classDef bronze fill:#8C5A3C,stroke:#5E3B26,color:#FFFFFF
-    classDef prata fill:#B8C0CC,stroke:#7D8794,color:#111111
-    classDef ouro fill:#D9A93B,stroke:#9C7412,color:#111111
-    class raw bronze
-    class silver prata
-    class gold ouro
-```
+</td>
+</tr>
+</table>
 
-## Onde isso roda hoje
+---
 
-| Onde | O que é | Stack |
-|:---|:---|:---|
-| Positivo Tecnologia | Plataforma de dados e IA com mais de 90 mil jobs por dia no Airflow | Airflow, Kubernetes/Argo, AWS Batch, Glue, Athena, Bedrock |
-| DIIP · PROAD/UFG | AutoTED, sistema em produção de ingestão e conciliação orçamentária da UFG | Prefect, FastAPI, PostgreSQL, Docker |
-| Enel | POC de Lakehouse Medallion para servir dados a agentes de IA | Glue/Spark, Iceberg, Step Functions, Terraform |
+## 🛠️ Tech Arsenal
 
-## Stack
+| Etapa do pipeline | Ferramentas |
+|:---|:---|
+| **Ingestão** | <img src="https://img.shields.io/badge/Scrapy-16324F?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy" /> <img src="https://img.shields.io/badge/Playwright-16324F?style=flat-square" alt="Playwright" /> <img src="https://img.shields.io/badge/Selenium-16324F?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" /> <img src="https://img.shields.io/badge/Debezium_CDC-16324F?style=flat-square" alt="Debezium CDC" /> <img src="https://img.shields.io/badge/Kafka_%C2%B7_MSK-16324F?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka / MSK" /> |
+| **Processamento** | <img src="https://img.shields.io/badge/Apache_Spark-16324F?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" /> <img src="https://img.shields.io/badge/AWS_Glue-16324F?style=flat-square" alt="AWS Glue" /> <img src="https://img.shields.io/badge/Pandas-16324F?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> |
+| **Orquestração** | <img src="https://img.shields.io/badge/Apache_Airflow-16324F?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" /> <img src="https://img.shields.io/badge/Prefect-16324F?style=flat-square&logo=prefect&logoColor=white" alt="Prefect" /> <img src="https://img.shields.io/badge/Step_Functions-16324F?style=flat-square" alt="Step Functions" /> <img src="https://img.shields.io/badge/Argo-16324F?style=flat-square&logo=argo&logoColor=white" alt="Argo" /> |
+| **Armazenamento** | <img src="https://img.shields.io/badge/Amazon_S3-16324F?style=flat-square" alt="Amazon S3" /> <img src="https://img.shields.io/badge/Apache_Iceberg-16324F?style=flat-square" alt="Apache Iceberg" /> <img src="https://img.shields.io/badge/Athena-16324F?style=flat-square" alt="Athena" /> <img src="https://img.shields.io/badge/PostgreSQL-16324F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/pgvector-16324F?style=flat-square" alt="pgvector" /> |
+| **IA** | <img src="https://img.shields.io/badge/AWS_Bedrock-16324F?style=flat-square" alt="AWS Bedrock" /> <img src="https://img.shields.io/badge/Agno_Agents-16324F?style=flat-square" alt="Agno Agents" /> <img src="https://img.shields.io/badge/MCP-16324F?style=flat-square" alt="MCP" /> |
 
-| Linguagens | Backend | Cloud & DevOps | Dados & Observabilidade |
+| **Linguagens** | **Backend & Web** | **Cloud & DevOps** | **Bancos & Observabilidade** |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=python,java,ts" alt="Python, Java, TypeScript" /> | <img src="https://skillicons.dev/icons?i=fastapi,django,spring,react&perline=2" alt="FastAPI, Django, Spring, React" /> | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux&perline=3" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,grafana" alt="PostgreSQL, MySQL, Grafana" /> |
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+---
+
+<div align="center">
+  Projetos e trajetória completa no <a href="https://luisfcarmo.github.io/portifolio/"><b>portfólio</b></a>
+  <br/><br/>
+  ✨ <i>"Code is like humor. When you have to explain it, it’s bad."</i> ✨
+</div>
