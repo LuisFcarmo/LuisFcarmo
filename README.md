@@ -1,39 +1,39 @@
 # ⚡ Luis Carmo
 
-<a href="https://github.com/LuisFcarmo">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&width=435&lines=Backend+Developer;Computer+Science+Student;Software+Architecture+Enthusiast" alt="Typing SVG" />
+<a href="https://luisfcarmo.github.io/portifolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2094F3&width=520&lines=Data+Platform+Engineer;Engenharia+de+Dados%2C+Cloud+e+IA+aplicada;AWS+%C2%B7+Terraform+%C2%B7+Airflow" alt="Data Platform Engineer · Engenharia de Dados, Cloud e IA aplicada" />
 </a>
 
 ---
 
-<table border="0">
+<table>
   <tr>
-    <td width="55%" valign="top">
-      
+    <td width="62%" valign="top">
+
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de Ciência da Computação na **UFG**, focado em criar sistemas robustos e escaláveis.
+Data Platform Engineer e estudante de Ciência da Computação na **UFG** (formatura prevista para 2027). Trabalho na interseção entre **engenharia de dados**, **infraestrutura cloud** e **IA aplicada**.
 
-- 🔭 Atualmente trabalhando com **Web Scraping** (Python/Scrapy) e **Ingestão de Dados**.
-- 🌱 Estudando **Arquitetura de Software**, **DevOps** e **Engenharia de Dados**.
-- 💡 Interesse em Backend (Java/Spring, Python/FastAPI).
-- 📍 **Goiânia, Goiás**
+- 🏢 **Positivo Tecnologia**, Data Platform Engineer Pleno: plataforma de dados e IA na AWS, com Airflow, Kubernetes e Terraform.
+- 🏛️ **DIIP · PROAD/UFG**, Tech Lead: criei o AutoTED, sistema em produção que automatiza a conciliação orçamentária da universidade.
+- ⚡ **Enel**, DevOps & Engenheiro de Dados Pleno: arquitetura Lakehouse (S3 + Apache Iceberg) que serve dados para agentes de IA.
+- 📍 **Goiânia, GO** · remoto ou híbrido
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/luisfcarmo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+<a href="https://luisfcarmo.github.io/portifolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2094F3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/luis-cesar-ferreira-do-carmo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:luiscesar@discente.ufg.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </td>
-<td width="45%" valign="center">
+<td width="38%" valign="middle" align="center">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisFcarmo&bg_color=1a1b27&color=79ff97&line=2094f3&point=ffffff&hide_border=true" />
-</div>
+### 90k+
+<sub>jobs orquestrados por dia no Airflow</sub>
+
+### 680+
+<sub>testes automatizados no AutoTED</sub>
+
+### 2+ anos
+<sub>de Airflow em produção</sub>
 
 </td>
 </tr>
@@ -43,21 +43,29 @@ Sou estudante de Ciência da Computação na **UFG**, focado em criar sistemas r
 
 ## 🛠️ Tech Arsenal
 
-| **Backend Core** | **Linguagens** | **Frontend** | **Data & DevOps** |
+**Engenharia de Dados & IA**
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Iceberg-30363D?style=flat-square" alt="Apache Iceberg" />
+  <img src="https://img.shields.io/badge/AWS_Glue_%26_Athena-232F3E?style=flat-square" alt="AWS Glue e Athena" />
+  <img src="https://img.shields.io/badge/Step_Functions-232F3E?style=flat-square" alt="AWS Step Functions" />
+  <img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white" alt="Prefect" />
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Agno_Agents-30363D?style=flat-square" alt="Agno Agents" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" alt="pgvector" />
+</p>
+
+| **Linguagens** | **Backend & Web** | **Cloud & DevOps** | **Bancos & Observabilidade** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=spring,django,fastapi" /> | <img src="https://skillicons.dev/icons?i=java,python,c,cpp" /> | <img src="https://skillicons.dev/icons?i=react,vue,javascript" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws" /> |
+| <img src="https://skillicons.dev/icons?i=python,java,ts" alt="Python, Java, TypeScript" /> | <img src="https://skillicons.dev/icons?i=fastapi,django,spring,react&perline=2" alt="FastAPI, Django, Spring, React" /> | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux&perline=3" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,grafana" alt="PostgreSQL, MySQL, Grafana" /> |
 
 ---
 
-## 📊 Analytics
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuisFcarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=LuisFcarmo&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
+  📂 Projetos e trajetória completa no <a href="https://luisfcarmo.github.io/portifolio/"><b>portfólio</b></a>
+  <br/><br/>
   ✨ <i>"Code is like humor. When you have to explain it, it’s bad."</i> ✨
 </div>
