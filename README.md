@@ -15,7 +15,6 @@
 Data Platform Engineer focado em **engenharia de dados**. Construo plataformas que rodam sem intervenção humana, da coleta em larga escala ao consumo por APIs e agentes de IA, com a infraestrutura na AWS escrita como código. Estudante de Ciência da Computação na **UFG** (formatura prevista para 2027).
 
 - 🏢 **Positivo Tecnologia**, Data Platform Engineer Pleno: ingestão em larga escala e data lake na AWS, orquestrados no Airflow e provisionados com Terraform.
-- 🏛️ **DIIP · PROAD/UFG**, Tech Lead: criei o AutoTED, sistema em produção que automatiza a conciliação orçamentária da universidade.
 - ⚡ **Enel**, DevOps & Engenheiro de Dados Pleno: arquitetura Lakehouse (S3 + Apache Iceberg) que serve dados para agentes de IA.
 - 📍 **Goiânia, GO** · remoto ou híbrido
 
